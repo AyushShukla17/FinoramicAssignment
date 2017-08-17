@@ -1,0 +1,15 @@
+{
+  "name": "finoramicassignment",
+  "version": "1.0.0",
+  "description": "script to download python dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "FinoramicAssignment"
+  },
+  "author": "Ayush Shukla",
+  "license": "ISC"
+}
